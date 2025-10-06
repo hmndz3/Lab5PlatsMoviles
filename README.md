@@ -26,4 +26,5 @@ Cada tarjeta de Pokémon incluye su imagen, número y nombre. Si hay algún erro
 Al seleccionar un Pokémon, la aplicación navega a la pantalla de detalle donde se muestran cuatro imágenes organizadas en un formato 2x2: 
 las versiones normal y shiny del Pokémon visto de frente y de espalda. Las tarjetas de las versiones shiny tienen un fondo amarillo para distinguirlas fácilmente.
 
-<img width="386" height="794" alt="image" src="https://github.com/user-attachments/assets/06830153-e941-4dc4-829e-a62247bdb05b" />
+<img width="386" height="794" alt="image" src="https://github.com/user-attachments/assets/06830153-e941-4dc4-829e-a62247bdb05b" />   <img width="381" height="790" alt="image" src="https://github.com/user-attachments/assets/c55dc411-3c0c-4e1d-8fd4-550e74ab85e3" />
+

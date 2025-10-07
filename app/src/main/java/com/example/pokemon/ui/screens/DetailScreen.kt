@@ -1,4 +1,4 @@
-package com.example.pokemon.ui.theme
+package com.example.pokemon.ui.screens
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
@@ -18,7 +18,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import com.example.pokemon.network.Pokemon
+import com.example.pokemon.data.network.Pokemon
 
 /**
  * Pantalla de detalle que muestra las 4 imágenes del Pokémon
